@@ -62,7 +62,7 @@ export function Pokedex() {
           className="search"
           onChange={event => searchPokemon(event.target.value)}
           value={searchValue}
-          placeholder="Buscar"
+          placeholder="Search"
         />
       </header>
       <main>
@@ -82,7 +82,7 @@ export function Pokedex() {
               onClick={navigateToFavorites}
             >
               <FavIcon color="#DF4760" />
-              Favoritos
+              Favorites
             </button>
           </div>
           <img id="poke-seta" src={pokeSeta} alt="Seta" />

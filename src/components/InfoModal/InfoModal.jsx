@@ -31,12 +31,12 @@ export function InfoModal() {
           <div className="text">
             <h1>{displayedPokemon.name}</h1>
             <ul id="abilities">
-              <h3>Habilidades</h3>
+              <h3>Abilities</h3>
               {pokemonAbilities.map(ability => {
                 return <li key={ability.slot}>{ability}</li>
               })}
             </ul>
-            <h3>Tipos</h3>
+            <h3>Types</h3>
             <PokeTypes pokemonTypes={displayedPokemon.types} />
           </div>
           <img
