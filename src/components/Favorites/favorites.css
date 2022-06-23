@@ -1,0 +1,14 @@
+#fav-pokemons-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 300px);
+  justify-content: center;
+}
+
+.favorites {
+  text-align: center;
+}
+
+#no-favorites {
+  display: block;
+  margin-top: 40vh;
+}

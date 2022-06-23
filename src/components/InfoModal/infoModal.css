@@ -1,0 +1,26 @@
+.pokemon-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 40px 80px;
+  gap: 60px
+}
+
+.pokemon-info img {
+  width: 300px;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+#abilities {
+  list-style-type: none;
+}
+
+h1,
+li {
+  text-transform: capitalize;
+}

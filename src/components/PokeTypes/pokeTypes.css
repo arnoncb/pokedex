@@ -1,0 +1,12 @@
+#type-list {
+  list-style-type: none;
+  display: flex;
+  gap: 8px;
+}
+
+.type {
+  text-transform: capitalize;
+  padding: 4px 12px;
+  border-radius: 3px;
+  color: #fff;
+}

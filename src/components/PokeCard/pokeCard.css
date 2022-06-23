@@ -1,0 +1,57 @@
+.card {
+  padding: 20px;
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 300px;
+  width: 240px;
+  justify-content: center;
+  align-items: center;
+  background-color: #eee;
+  border-radius: 8px;
+}
+
+.card >div {
+  background-color: #fff;
+  border-radius: 8px; 
+  box-shadow:  3px 3px 7px #bebebe;
+  width: 200px;
+}
+
+.poke-info {
+  display: flex;
+  flex-direction: column;
+  
+  height: 240px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.poke-info span {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+
+.poke-sprite {
+  width: 120px;
+}
+
+.buttons {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 4px;
+}
+
+.buttons button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 4px;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+  
+}

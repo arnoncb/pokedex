@@ -1,0 +1,74 @@
+[
+  {
+    "name": "normal",
+    "backgroundColor": "#A8A878"
+  },
+  {
+    "name": "fighting",
+    "backgroundColor": "#C03028"
+  },
+  {
+    "name": "flying",
+    "backgroundColor": "#A890F0"
+  },
+  {
+    "name": "poison",
+    "backgroundColor": "#A040A0"
+  },
+  {
+    "name": "ground",
+    "backgroundColor": "#E0C068"
+  },
+  {
+    "name": "rock",
+    "backgroundColor": "#B8A038"
+  },
+  {
+    "name": "bug",
+    "backgroundColor": "#A8B820"
+  },
+  {
+    "name": "ghost",
+    "backgroundColor": "#705898"
+  },
+  {
+    "name": "steel",
+    "backgroundColor": "#B8B8D0"
+  },
+  {
+    "name": "fire",
+    "backgroundColor": "#F08030"
+  },
+  {
+    "name": "water",
+    "backgroundColor": "#6890F0"
+  },
+  {
+    "name": "grass",
+    "backgroundColor": "#78C850"
+  },
+  {
+    "name": "electric",
+    "backgroundColor": "#F8D030"
+  },
+  {
+    "name": "psychic",
+    "backgroundColor": "#F85888"
+  },
+  {
+    "name": "ice",
+    "backgroundColor": "#98D8D8"
+  },
+  {
+    "name": "dragon",
+    "backgroundColor": "#7038F8"
+  },
+  {
+    "name": "dark",
+    "backgroundColor": "#705848"
+  },
+  {
+    "name": "fairy",
+    "backgroundColor": "#EE99AC"
+  }
+]
